@@ -54,3 +54,7 @@ class Calculator:
         using math.sqrt and returns the result."""
         self.__state = sqrt(self.__state)
         return self.__state
+
+    def reset(self):
+        """Sets the value stored in the memory state to 0"""
+        self.__state = 0
