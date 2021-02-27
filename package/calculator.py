@@ -1,6 +1,3 @@
-from math import sqrt
-
-
 class Calculator:
 
     def __init__(self, state: float = 0):
