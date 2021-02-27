@@ -14,7 +14,7 @@ class Calculator:
         """
         if not isinstance(state, (int, float)):
             raise TypeError
-        self._state = state
+        self.__state = state
 
     @property
     def state(self) -> float:
