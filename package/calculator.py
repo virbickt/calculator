@@ -54,7 +54,3 @@ class Calculator:
         self.__state = sqrt(self.__state)
         return self.__state
 
-
-calculator = Calculator
-calculator.add()
-
