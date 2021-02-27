@@ -16,11 +16,11 @@ class Calculator:
         self._state = state
 
     @property
-    """
-    Returns value of the memory state of Calculator. 
-    Calculator object operates on its memory state that is initially set to 0. 
-    """
     def state(self) -> float:
+        """
+        Returns value of the memory state of Calculator.
+        Calculator object operates on its memory state that is initially set to 0.
+        """
         return self.__state
 
     def add(self, number: float) -> float:
