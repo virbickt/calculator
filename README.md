@@ -3,6 +3,13 @@
 
 The following has been made for educational purposes as part of the final project of 2.1.5: "Software Engineering and Reproducible Research" by Turing College. It is meant to serve as a toy-example of making a package that can be later installed using `pip`. Standard package structure has been adapted and initalized.  
 
+- [Introduction](#Introduction)
+  * [And a table of contents](#and-a-table-of-contents)
+  * [On the right](#on-the-right)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Introduction
 > A **mechanical calculator**, or calculating machine, is a mechanical device used to perform the basic operations of arithmetic automatically [...] 
 > The first mechanical calculator (also known as *Pascaline*) appeared in 1642, the creation of French intellectual Blaise Pascal as "a device that will eventually perform all four arithmetic operations without relying on human intelligence."
