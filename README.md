@@ -12,7 +12,7 @@ The following has been made for educational purposes as part of the final projec
    * [Division](#Division)
    * [Square root](#Square-root)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+<sub><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></sub>
 
 
 ## Introduction
