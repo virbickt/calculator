@@ -11,6 +11,7 @@ The following has been made for educational purposes as part of the final projec
    * [Multiplication](#Multiplication)
    * [Division](#Division)
    * [Square root](#Square-root)
+   * [Memory reset](#Memory-reset)
 
 <sub><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></sub>
 
@@ -76,3 +77,8 @@ calculator.sqrt()
 # output: 2.0
 ```
 `calculator.sqrt()` uses `math.sqrt` as it has been found to be quicker than the alternative such as `pow()` or `**0.5`
+### Memory reset
+Memory can be reset by using `calculator.reset()`. It takes no inputs and sets the value stored in the memory state to `0`:
+```python
+calculator.reset()
+```
