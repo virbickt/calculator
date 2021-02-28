@@ -16,9 +16,20 @@ The following has been made for educational purposes as part of the final projec
  
 350 years later, the idea of calculator is still inconceivable without the original four operations - addition, subtraction, multiplication and division. This is exemplified by the code that you will find here - an object `calculator`, which, in addition, is also able to take square root of a number.
 
+### Installation
+To install the package directly from github using `pip`, use the following:
+```
+pip install git+https://github.com/virbickt/calculator.git
+```
+Once the package has been succesfully installed, make sure to include the import statement:
+```
+from calculator import Calculator
+```
+
 ### Addition
 Addition is performed by using `calculator.add()`. It takes inputs of type float and returns the result of adding the input value to the value stored in the memory state:
 ```
+calculator = Calculator()
 calculator.add(5)
 calculator.add(2)
 ```
