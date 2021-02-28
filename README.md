@@ -1,7 +1,7 @@
 # calculator
 ![](https://img.shields.io/badge/python-v3.7-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 
-The following has been made for educational purposes as part of the final project of 2.1.5: "Software Engineering and Reproducible Research" by Turing College. It is meant to serve as a toy-example of making a package that can be later installed using `pip`. Standard package structure has been adapted and initalized.  
+The following has been made for educational purposes as part of the final project of 2.1.5, "Software Engineering and Reproducible Research" on Turing College. It is meant to serve as a toy-example of making a package that can be later installed using `pip`. Standard package structure has been adapted and initalized.  
 
 1. [Introduction](#Introduction)
 2. [Installation](#Installation)
