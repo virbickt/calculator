@@ -3,9 +3,14 @@
 
 The following has been made for educational purposes as part of the final project of 2.1.5: "Software Engineering and Reproducible Research" by Turing College. It is meant to serve as a toy-example of making a package that can be later installed using `pip`. Standard package structure has been adapted and initalized.  
 
-- [Introduction](#Introduction)
-  * [And a table of contents](#and-a-table-of-contents)
-  * [On the right](#on-the-right)
+1. [Introduction](#Introduction)
+2. [Installation](#Installation)
+3. [Methods](#Methods)
+   * [Addition](#Addition)
+   * [Subtraction](#Subtraction)
+   * [Multiplication](#Multiplication)
+   * [Division](#Division)
+   * [Square root](#Square-root)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -16,7 +21,7 @@ The following has been made for educational purposes as part of the final projec
  
 350 years later, the idea of calculator is still inconceivable without the original four operations - addition, subtraction, multiplication and division. This is exemplified by the code that you will find here - an object `calculator`, which, in addition, is also able to take square root of a number.
 
-### Installation
+## Installation
 In order to use the package, go through the two-step process:
 1. To install the package directly from github using `pip`, use the following:
 ```python
@@ -26,7 +31,7 @@ pip install git+https://github.com/virbickt/calculator.git
 ```python
 from calculator import Calculator
 ```
-
+## Methods
 ### Addition
 Addition is performed by using `calculator.add()`. It takes inputs of type float and returns the result of adding the input value to the value stored in the memory state:
 ```python
