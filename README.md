@@ -19,11 +19,11 @@ The following has been made for educational purposes as part of the final projec
 ### Installation
 In order to use the package, go through the two-step process:
 1. To install the package directly from github using `pip`, use the following:
-```
+```python
 pip install git+https://github.com/virbickt/calculator.git
 ```
 2. Once the package has been succesfully installed, make sure to include the import statement:
-```
+```python
 from calculator import Calculator
 ```
 
