@@ -22,7 +22,7 @@ The following has been made for educational purposes as part of the final projec
 > A **mechanical calculator**, or calculating machine, is a mechanical device used to perform the basic operations of arithmetic automatically [...] 
 > The first mechanical calculator (also known as *Pascaline*) appeared in 1642, the creation of French intellectual Blaise Pascal as "a device that will eventually perform all four arithmetic operations without relying on human intelligence." ([Wikipedia](https://en.wikipedia.org/wiki/Mechanical_calculator))
  
-350 years later (the number has been arrived at while relying on human intelligence), the idea of calculator is still inconceivable without the original four operations - addition, subtraction, multiplication, and division. This is exemplified by the code that you will find here - an object `calculator`, which, in addition, is also able to take the square root of a number.
+350 years later (the number has been arrived at while relying on human intelligence), the idea of calculator is still inconceivable without the original four operations - addition, subtraction, multiplication, and division. This is exemplified by the code that you will find here - class `Calculator` which, when instatiated, is also able to take the square root of a number. The results of operations are stored on the memory variable which can have further operations applied to it until it is reset.
 
 ## Installation
 In order to use the package, go through the two-step process:
