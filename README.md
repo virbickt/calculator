@@ -12,6 +12,8 @@ The following has been made for educational purposes as part of the final projec
    * [Division](#Division)
    * [Square root](#Square-root)
    * [Memory reset](#Memory-reset)
+4. [License](#License)
+5. [Contact](#Contact)
 
 <sub><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></sub>
 
@@ -82,3 +84,8 @@ Memory can be reset by using `calculator.reset()`. It takes no inputs and sets t
 ```python
 calculator.reset()
 ```
+## License
+The project is licenced under [GNU General Public License v3.0](https://github.com/virbickt/calculator/blob/main/LICENSE.md)
+
+## Contact
+Feedback is very welcome! Drop me an email: [tvirbickas@gmail.com](mailto:tvirbickas@gmail.com?subject=Calculator%20on%20Github)
